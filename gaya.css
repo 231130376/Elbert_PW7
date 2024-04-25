@@ -63,14 +63,7 @@ p.WarnaArt3-2{
     font-family: 'Times New Roman', Times, serif;
 }
 
-header.UkuranGambarHeader img{
-    width: 250px;
-}
-
-article.WarnaArticle span{
-    color: red;
-}
-
-main img{
-    width: 150px;
+img{
+    width: 400px;
+    height: 300px;
 }
