@@ -1,5 +1,5 @@
 body{
-    background-color: darkcyan;
+    background-color: darkgray;
 }
 
 h3.WarnaArt1-1{
@@ -38,7 +38,7 @@ h3.WarnaArt2-1{
 }
 
 p.WarnaArt2-2{
-    background-color: sienna;
+    background-color: burlywood;
     color: skyblue;
     font-size: 18px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -49,7 +49,7 @@ p.WarnaArt2-2{
 }
 
 h3.WarnaArt3-1{
-    background-color: slategray;
+    background-color: red;
     color: crimson;
     width: 500px;
     font-size: 40px;
